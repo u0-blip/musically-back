@@ -1,3 +1,4 @@
 migrations/
 database/*
 *.pyc
+db.sqlite3
